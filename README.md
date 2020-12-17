@@ -1,5 +1,6 @@
-# Aurum-Strategies
+# Aurum Strategies Inc.
 ## Golden Solutions
+### www.Aurum-Strategies.com
 
 
                                               
