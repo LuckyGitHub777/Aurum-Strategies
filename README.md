@@ -1,22 +1,8 @@
 # Aurum-Strategies
 ## Golden Solutions
 
-   mm                 
-   ##   m   m   m mm  m   m  mmmmm 
-  #  #  #   #   #"  " #   #  # # # 
-  #mm#  #   #   #     #   #  # # # 
- #    # "mm"#   #     "mm"#  # # # 
-                                   
-                                   
-                                                                      
-  mmmm    m                    m                    "                 
- #"   " mm#mm   m mm   mmm   mm#mm   mmm    mmmm  mmm     mmm    mmm  
- "#mmm    #     #"  " "   #    #    #"  #  #" "#    #    #"  #  #   " 
-     "#   #     #     m"""#    #    #""""  #   #    #    #""""   """m 
- "mmm#"   "mm   #     "mm"#    "mm  "#mm"  "#m"#  mm#mm  "#mm"  "mmm" 
-                                            m  #                      
-                                             ""                       
-                                                 
+
+                                              
                           ########                  #
                       #################            #
                    ######################         #
