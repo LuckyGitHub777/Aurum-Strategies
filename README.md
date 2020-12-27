@@ -1,7 +1,7 @@
 # Aurum Strategies Inc.
 ## Golden Solutions
 ### Cybersecurity & Risk Management Consulting
-### www.Aurum-Strategies.com
+#### www.Aurum-Strategies.com
 
 
                                               
