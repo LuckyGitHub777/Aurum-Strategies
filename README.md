@@ -33,7 +33,5 @@
                      #   #   ###  #   #   ##
                      ########################
                       ##     ##   ##     ##             
-
-            Au777{c0n6r475!_w3_4r3_0n3!_4urum_57r4736135_1nc}
             Welcome to www.Aurum-Strategies.com
             hello@aurum-strategies.com | @LuckyGitHub777
